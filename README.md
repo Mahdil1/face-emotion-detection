@@ -6,3 +6,7 @@ This project implements a face emotions detection system using Tensorflow, Keras
 # Dataset
 Link to download it : https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
 
+# Demonstration :
+
+![image](https://github.com/user-attachments/assets/12a8f1b5-92d4-4429-8fdf-b10878fd29f6)
+
